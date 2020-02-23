@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Преступление и наказание</string>
+	<string name="crime_title_hint">Что случилось?</string>
+	<string name="crime_title_label">Описание преступления</string>
+	<string name="crime_details_label">Подробности</string>
+	<string name="crime_solved_label">Дело решено?</string>
+
+	<string name="new_crime">Новое преступление</string>
+	<string name="if_empty_string">Оооой, кажется тут пусто</string>
+	<string name="if_empty_button_string">Нажми на меня, чтобы добавить новое преступление.</string>
+	<string name="crime_suspect_text">Выбрать подозреваемого</string>
+	<string name="crime_report_text">Отправить отчет</string>
+
+	<string name="crime_report">%1$s!
+        Преступление было раскрыто %2$s. %3$s, и %4$s
+    </string>
+	<string name="crime_report_solved">Дело закрыто, Ватсон!</string>
+	<string name="crime_report_unsolved">Дело не закрыто</string>
+	<string name="crime_report_no_suspect">преступника обнаружить не удалось</string>
+	<string name="crime_report_suspect">Преступником оказался (лась) %s.</string>
+	<string name="crime_report_subject">Отчет по преступлению</string>
+	<string name="send_report">Отправить отчет по</string>
+	<string name="call_suspect_string">Позвонить подозреваемому</string>
+	<string name="empty_title_toast">Описание преступления не заполнено. Пожалуйста опишите его.</string>
+	<string name="save_crime_text">Сохранить преступление</string>
+	<string name="crime_photo_button_description">Сфотографируйте место преступления</string>
+	<string name="crime_photo_image_description">Фото преступления наличиствуется</string>
+	<string name="crime_photo_no_image_description">Фото преступления отстутствует</string>
+</resources>
